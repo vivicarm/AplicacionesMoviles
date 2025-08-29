@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RegistroGastosIngresos</string>
+    <string name="title_activity_main_gestor">MainActivityGestor</string>
+</resources>
